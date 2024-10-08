@@ -31,8 +31,8 @@ as configurações do arquivo **Comum.robot** para que todos que utilizem o proj
     Open Application    http://127.0.0.1:4723
     ...     platformName=Android
     ...     deviceName=Android13
-    ...     appPackage=br.com.mobilesaude.epharma.guia
-    ...     appActivity=br.com.mobilesaude.epharma.guia.MainActivity
+    ...     appPackage=br.com.mobilesaude.company.guia
+    ...     appActivity=br.com.mobilesaude.company.guia.MainActivity
     ...     automationName=UiAutomator2
 
 ````
